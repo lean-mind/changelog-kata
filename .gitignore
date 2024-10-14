@@ -1,0 +1,20 @@
+# Ignore IDEA project files
+**/.idea/
+**/*.iml
+
+# Ignore build output directories
+**/bin/
+**/obj/
+
+# Ignore user-specific files
+**/*.user
+**/*.suo
+
+# Ignore compiled DLLs and EXEs
+**/*.dll
+**/*.exe
+
+# Ignore other C# specific files
+**/*.pdb
+**/*.cache
+**/*.log
